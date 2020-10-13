@@ -51,6 +51,8 @@
 
 ###### They are branched directly from a tagged release in the master branch, and when finished are merged back into both master and develop to make sure the hotfix isn’t accidentally lost when the next regular release occurs. 
      
+##### GIT COMMANDS AND TERMINOLOGY
+##### We will explain each git commands to better understand GitFlow
 
     
 
